@@ -8,4 +8,5 @@ Build 20 mini frontend projects from scratch with HTML5, CSS & JavaScript (No fr
 [Here is the project repository by Brad](https://github.com/bradtraversy/vanillawebprojects)
 
 **Tutorial by Brad Traversy**
+
 Many thaks!
