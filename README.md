@@ -9,4 +9,4 @@ Build 20 mini frontend projects from scratch with HTML5, CSS & JavaScript (No fr
 
 **Tutorial by Brad Traversy**
 
-Many thaks!
+Many thanks!
