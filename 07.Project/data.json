@@ -1,0 +1,33 @@
+[
+{
+  "id":1,
+  "word":"programming",
+  "description":"the activity or job of writing computer programs"
+},
+{
+  "id":2,
+  "word":"interface",
+  "description":"a connection between two pieces of electronic equipment, or between a person and a computer"
+},
+{
+  "id":3,
+  "word":"wizard",
+  "description":"a man who is believed to have magical powers and who uses them to harm or help other people"
+},
+{
+  "id":4,
+  "word":"application",
+  "description":"an official request for something, usually in writing"
+},
+{
+  "id":5,
+  "word":"query",
+  "description":"a question, often expressing doubt about something or looking for an answer from an authority"
+},
+{
+  "id":6,
+  "word":"get on with",
+  "description":"to start or continue doing something, especially work"
+}
+
+]
